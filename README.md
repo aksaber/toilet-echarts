@@ -1,6 +1,6 @@
 # toilet
 
-> A Vue.js project
+> 基于Echarts开发的可视化公共厕所管理平台
 
 ## Build Setup
 
